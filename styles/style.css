@@ -1,0 +1,187 @@
+.btn-primary{
+
+
+    color: white;
+    background-color: hotpink;
+    border-radius: 30px;
+    border: 0;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 15px 15px;
+    
+}
+
+.txt-secondery{
+    font-size: 20px;
+    color: grey;
+}
+.banner{
+    display: flex;
+    background-color: rgb(247, 241, 241);
+    font-size: 30px;
+    padding: 50px;
+
+    
+}
+.img{
+    background-color: rgb(247, 241, 241);
+}
+.section{
+font-size: 30px;
+align-items: center;
+text-align: center;
+}
+.txt-primary{
+    font-size: 20px;
+    text-align: center;
+}
+.txt-thirdly{
+    font-size: 30px;
+    align-items: center;
+    text-align: center;
+}
+.txt-fourthly{
+color: firebrick;
+
+}
+.banner-1{
+    background-color: rgb(240, 225, 227);
+    padding: 100px;
+    display:flex; 
+
+}
+.txt-fifthly{
+    font-size: 15px;
+    text-align: center;
+
+}
+
+
+.btn-secondery{
+    color: white;
+    background-color: rgb(243, 10, 126);
+    border-radius: 30px;
+    border: 0;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 15px;
+    align-items: center;
+    justify-content: center;
+}
+.img-1{
+width: 700px;
+}
+.banner-3{
+    text-align: center;
+
+}
+.txt-sixthly{
+    font-size: 60px;
+}
+.txt-seventhly{
+    font-size: 20px;
+}
+
+.ins-1{
+    width: 400px;
+    margin-right: 50px;
+}
+
+.ins-2{
+    width: 400px;
+    margin-right: 50px;
+} 
+
+.ins-3{
+    width: 400px;
+    margin-right: 50px;
+}
+
+.ins-4{
+    width: 400px;
+    margin-right: 50px;
+}
+.banner-3{
+    margin: 200px;
+    padding: 20px;
+}
+.txt-8{
+    font-size: 30px;
+    text-align: center;
+}
+.txt-9{
+    font-size: 25px;
+    text-align: center;
+}
+
+.star{
+    background-image: url('../images/Rectangle\ 9.png 9.png');
+    background-repeat: no-repeat;
+    justify-content: center;
+    padding: 30px;
+    margin: 0px;
+
+    background-size: 2500px;
+    background-position: center;
+}
+.sub{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 250px;
+}
+.email{
+    font-size: 50px;
+    align-items: center;
+    display: flex;
+    
+
+}
+.email-1{
+    font-size: 25px;
+    background-color: rgb(226, 75, 155);
+    color: white;
+    border-radius: 0px;
+    border: 0px;
+    padding: 20px 15px;
+}
+.end{
+    background-color: black;
+    background-size: 200px;
+
+    font-size: 90px;
+    padding: 50px;
+}
+.txt-10{
+    color: rgb(224, 97, 165);
+    font-size: 20px;
+}
+.txt-11{
+    color: white;
+    font-size: 20px;
+}
+.txt-12{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.txt-13{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.flower{
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+}
+.flowers{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.flower-2{
+    text-align: center;
+    justify-content: center;
+}
